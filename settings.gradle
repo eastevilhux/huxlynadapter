@@ -1,0 +1,3 @@
+include ':lib_adapter'
+include ':app'
+rootProject.name = "MyAdapterDemo"

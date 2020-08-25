@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lib_load_more">加载更多</string>
+    <string name="lib_loading">正在加载数据</string>
+    <string name="lib_nomore">暂无更多数据</string>
+    <string name="lib_time">时间</string>
+    <string name="lib_data">日期</string>
+</resources>
